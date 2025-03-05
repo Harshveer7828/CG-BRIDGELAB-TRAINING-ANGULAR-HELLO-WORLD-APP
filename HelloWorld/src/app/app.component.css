@@ -2,3 +2,10 @@
     height:100px;
     width: 100px;
 }
+
+.error-output{
+    color: red;
+    font-size: 12px;
+    margin-left: 10px;
+    font-style: italic;
+}
